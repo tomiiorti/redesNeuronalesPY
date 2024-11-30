@@ -66,7 +66,7 @@ Las redes neuronales son un tipo de modelo de aprendizaje automático diseñado 
 pip install sklearn
 ```
 ___
-*matplotlib:
+*matplotlib:*
 ```
 pip install matplotlib
 
